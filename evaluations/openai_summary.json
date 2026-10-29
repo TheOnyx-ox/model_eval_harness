@@ -1,0 +1,8 @@
+{
+  "model": "openai",
+  "size": 500,
+  "correct": 288,
+  "wrong": 212,
+  "invalid": 0,
+  "accuracy": 57.6
+}

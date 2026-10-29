@@ -1,0 +1,8 @@
+{
+  "model": "gemini",
+  "size": 500,
+  "correct": 300,
+  "wrong": 200,
+  "invalid": 0,
+  "accuracy": 60.0
+}

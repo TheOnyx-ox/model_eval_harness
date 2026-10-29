@@ -1,0 +1,8 @@
+{
+  "model": "groq",
+  "size": 500,
+  "correct": 278,
+  "wrong": 222,
+  "invalid": 0,
+  "accuracy": 55.6
+}
